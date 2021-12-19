@@ -2,7 +2,7 @@
 Title: OrangeApi
 Desc: A python module to gather and manage the devices connected to your router.
 Author: FuriousBird
-Version: 1.1.5
+Version: 1.1.6
 """
 
 from types import MethodDescriptorType
